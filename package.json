@@ -1,0 +1,26 @@
+{
+  "name": "user_manager",
+  "version": "1.0.0",
+  "description": "user manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thxyh99/node_project.git"
+  },
+  "keywords": [
+    "user",
+    "manager"
+  ],
+  "author": "thxyh99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thxyh99/node_project/issues"
+  },
+  "homepage": "https://github.com/thxyh99/node_project#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
